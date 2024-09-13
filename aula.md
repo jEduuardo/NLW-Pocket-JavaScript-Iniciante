@@ -17,41 +17,61 @@ Como um lego, você irá utilizar peças para criar algorítmos,  ou seja, para 
 
 ## Fases da resolução de um problema
 
-Coletar os dados 
-Processar os dados (manipular, alterar ...)
-Apresentar os dados
+- Coletar os dados 
+- Processar os dados (manipular, alterar ...)
+- Apresentar os dados
 
 ## Escopo e variáveis:
 
-{}
-Variáveis globais e locais
-Constantes
+- {}
+- Variáveis globais e locais
+- Constantes
 
 ## Tipos de dados
 
-Strings (textos): "" '' ´´
-Numbers (números): 1, 2, 3.5...
-Boolean: true or false
+- Strings (textos): "" '' ´´
+- Numbers (números): 1, 2, 3.5...
+- Boolean: true or false
 
 # Operadores
 
-Operador de atribuição de valor
-Operador de contatenação
+- Operador de atribuição de valor: =
+- Operador de contatenação: +
+- Operadores de comparação: == != <= >= < > (return a boolean{true or false})
 
 ## Estruturas de dados:
 
 ### Arrays:
 
-Uma lista que contém qualquer tipo de dado
+- Uma lista que contém qualquer tipo de dado
+- Métodos de array: *push*, *find*, *forEach*
 
 ### Objetos:
 
-Atributor e métodos
-Criação e manipulação de onjetos
-Acesso e propriedades de objetos
+- Atributor e métodos
+- Criação e manipulação de onjetos
+- Acesso e propriedades de objetos
 
 ### Function
 
-Criar, passar argumento
-Executar
-Arrow function / named function
+- Criar, passar argumento
+- Executar
+- Arrow function / named function
+
+# Estrutura de repetição
+
+- While
+
+# Condicionais
+
+- Switch
+- if/else
+
+## Módulos de Node.js:
+
+- Importação de módulos (requise, CommonJS)
+**Biblioteca** 'inquirer' para criar prompts interativos
+
+## Programação assíncrona e Promíses:
+
+- Usp de funções assíncronas (async/await)
