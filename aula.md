@@ -82,4 +82,4 @@ Como um lego, você irá utilizar peças para criar algorítmos,  ou seja, para 
 
 ## Programação assíncrona e Promíses:
 
-- Usp de funções assíncronas (async/await)
+- Usp de funções assíncronas (async/await).

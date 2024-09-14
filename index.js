@@ -34,7 +34,7 @@ const cadastrarMeta = async () => {
 }
 
 const listarMetas = async () => {
-  
+
   if(metas.length == 0) {
     mensagem = "Não existem metas!"
     return
