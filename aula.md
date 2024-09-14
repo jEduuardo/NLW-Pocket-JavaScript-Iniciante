@@ -38,13 +38,14 @@ Como um lego, você irá utilizar peças para criar algorítmos,  ou seja, para 
 - Operador de atribuição de valor: =
 - Operador de contatenação: +
 - Operadores de comparação: == != <= >= < > (return a boolean{true or false})
+- Spread operator: ...
 
 ## Estruturas de dados:
 
 ### Arrays:
 
 - Uma lista que contém qualquer tipo de dado
-- Métodos de array: *push*, *find*, *forEach*
+- Métodos de array: *push*, [*find*, *forEach*, *filter*, *map*] : HOF (Higher Order Functions)
 
 ### Objetos:
 
@@ -71,6 +72,13 @@ Como um lego, você irá utilizar peças para criar algorítmos,  ou seja, para 
 
 - Importação de módulos (requise, CommonJS)
 **Biblioteca** 'inquirer' para criar prompts interativos
+- FS (file system)
+
+## JSON
+
+- Javascript Object Notation (.json)
+- JSON.parse(): Transforma de JSON para JS
+- JSON.stringify(): Transforma de JS para JSON
 
 ## Programação assíncrona e Promíses:
 
